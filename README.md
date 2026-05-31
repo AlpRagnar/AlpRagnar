@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah Salih Öner 👋
+# Hi, I'm Abdullah 👋
 
 <div align="center">
 
