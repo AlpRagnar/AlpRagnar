@@ -152,7 +152,7 @@ Technical writing and knowledge sharing
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdullah_Salih_Öner-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullahsalihoner/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](www.asoner.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://www.asoner.dev/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riyadlioner00@gmail.com)
 
 </div>
